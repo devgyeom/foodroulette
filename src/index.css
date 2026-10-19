@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-jua: 'Jua', 'Pretendard', sans-serif;
+  --font-sans: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+}
+
+body {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.font-jua {
+  font-family: 'Jua', 'Pretendard', sans-serif;
+}

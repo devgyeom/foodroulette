@@ -1,0 +1,6 @@
+{
+  "name": "오늘 뭐 먹지? | 2단계 음식 룰렛",
+  "description": "결정하기 힘든 식사 메뉴, 2단계 룰렛으로 한 번에 추천받는 음식 결정 룰렛 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
